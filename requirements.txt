@@ -1,2 +1,4 @@
 crewai
 crewai_tools
+dotenv
+langchain_google_genai
