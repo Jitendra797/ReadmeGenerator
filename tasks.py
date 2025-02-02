@@ -9,10 +9,10 @@ file_reader_task = Task(
        
     )
 
-# readme_generator_task  = Task(
-#     name="",
-#     description="",
-#     agent=readme_generator,
-#     expected_output="",
-#     tools= []
-# )
+readme_generator_task  = Task(
+    name="",
+    description="",
+    agent=readme_generator,
+    expected_output="",
+    tools= []
+)
